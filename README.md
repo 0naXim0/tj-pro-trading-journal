@@ -2,15 +2,15 @@
 
 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-TJ%20Pro-2563eb?style=flat-square)](https://tj-pro-by-naxim.netlify.app)
-
-[![Status](https://img.shields.io/badge/Status-Live-16a34a?style=flat-square)](https://tj-pro-by-naxim.netlify.app)
-
-[![Showcase](https://img.shields.io/badge/Repository-Product%20Showcase-111827?style=flat-square)](https://github.com/0naXim0/tj-pro-trading-journal)
+[![Open TJ Pro](https://img.shields.io/badge/Open%20TJ%20Pro-TJ%20Pro-2563eb?style=flat-square)](https://tj-pro-by-naxim.netlify.app)
 
 
 
-TJ Pro is a focused trading journal built for traders who want to record decisions, review performance, and turn trading history into clearer feedback. It combines structured trade logging with analytics, visual context, and practical performance insights in a professional dark interface.
+[![Status](https://img.shields.io/badge/Status-Live-16a34a?style=flat-square)](https://tj-pro-by-naxim.netlify.app) [![Showcase](https://img.shields.io/badge/Repository-Product%20Showcase-111827?style=flat-square)](https://github.com/0naXim0/tj-pro-trading-journal)
+
+
+
+TJ Pro is a completed trading journal built for traders who want to record decisions, review performance, and turn trading history into clearer feedback. It combines structured trade logging with analytics, visual context, and practical performance insights in a professional dark interface.
 
 
 
@@ -30,17 +30,13 @@ The live deployment is the primary experience. This repository is a public produ
 
 
 
-TJ Pro brings the main parts of a trading review workflow into one place:
-
-
-
-- **Dashboard analytics** for total capital, trade count, P&L, win rate, average risk-to-reward, profit factor, and maximum drawdown
+- **Dashboard analytics** for capital, trade count, P&L, win rate, risk-to-reward, profit factor, and drawdown
 - 
-- **Performance analysis** with profit and loss breakdowns, trade statistics, average wins and losses, largest outcomes, and consecutive-trade metrics
+- **Performance analysis** with profitability breakdowns, trade statistics, wins, losses, and streak metrics
 - 
-- **Trade history** with open and completed trade views, filters, pair selection, direction, size, R:R, result, P&L, strategy, and notes
+- **Trade history** with open and completed trade views, filters, pair selection, direction, size, result, strategy, and notes
 - 
-- **AI Smart Summary** with timeframe-based summaries, streak analytics, best and worst trades, traded-pair patterns, hold-time statistics, and smart insights
+- **AI Smart Summary** with timeframe summaries, streak analytics, traded-pair patterns, hold-time statistics, and insights
 - 
 - **Trade context** through notes, chart screenshots, strategy labels, setup tags, emotion ratings, risk-to-reward, and P&L
 - 
@@ -50,7 +46,7 @@ TJ Pro brings the main parts of a trading review workflow into one place:
 
 
 
-TJ Pro is designed to make the review loop easier: record the trade, preserve the reasoning behind it, inspect the result, and look for repeatable patterns. The goal is not just to store trades, but to help traders understand their process.
+TJ Pro is designed to make the review loop easier: record the trade, preserve the reasoning behind it, inspect the result, and look for repeatable patterns.
 
 
 
@@ -66,19 +62,11 @@ TJ Pro is designed to make the review loop easier: record the trade, preserve th
 
 
 
-The dashboard provides a high-level view of account performance, including running P&L and win/loss distribution.
-
-
-
 ### Performance analysis
 
 
 
 ![TJ Pro Performance Analysis](./1789776638112.jpg)
-
-
-
-Performance analysis expands the review with detailed profitability and trade-statistic breakdowns.
 
 
 
@@ -90,19 +78,11 @@ Performance analysis expands the review with detailed profitability and trade-st
 
 
 
-Each trade can retain notes, a chart screenshot, the strategy used, and setup tags for later review.
-
-
-
 ### Trade detail
 
 
 
 ![TJ Pro Trade Detail](./1789776682700.jpg)
-
-
-
-Trade detail brings execution metadata, setup context, emotion rating, risk-to-reward, and P&L together with the chart view.
 
 
 
@@ -114,10 +94,6 @@ Trade detail brings execution metadata, setup context, emotion rating, risk-to-r
 
 
 
-The trading history view keeps open and completed trades organized with advanced filtering and sortable review fields.
-
-
-
 ### AI Smart Summary
 
 
@@ -126,15 +102,11 @@ The trading history view keeps open and completed trades organized with advanced
 
 
 
-The AI Smart Summary view is organized around timeframe-based insights, streaks, traded pairs, hold time, and best or worst trade patterns.
-
-
-
 ## Project status
 
 
 
-TJ Pro is currently available as a live web application. This repository is maintained as a product presentation and visual reference because the original source files are unavailable.
+TJ Pro is a completed live web application. This repository is maintained as a product presentation and visual reference because the original source files are unavailable.
 
 
 
@@ -150,12 +122,9 @@ TJ Pro is a journaling and analytics tool, not financial advice. Trading involve
 
 
 
-- **Live app:** [tj-pro-by-naxim.netlify.app](https://tj-pro-by-naxim.netlify.app)
+- **Live application:** [tj-pro-by-naxim.netlify.app](https://tj-pro-by-naxim.netlify.app)
 - 
 - **Creator:** [@0naXim0](https://github.com/0naXim0)
-- 
-
-
 
 
 
